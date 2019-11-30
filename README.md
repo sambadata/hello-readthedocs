@@ -2,7 +2,7 @@
 
 ## À propos
 readthedocs.org est un service cloud gratuit qui héberge votre documentation en ligne. 
-Ce service est utile pour créer le manuel d'un projet, la documentation d'une application ou pour tenir un carnet de bord.
+readthedocs.org est un service utile pour créer et gér le manuel d'un projet, la documentation d'une application ou pour tenir un carnet de bord.
 Il est possible d’importer les documentations sur la plateforme readthedocs.org depuis Git. 
 On va gérer la mise à jour automatique de la documentation à chaque commit. 
 readthedocs.org supporte également la gestion des versions avec Git.
@@ -15,5 +15,6 @@ readthedocs.org supporte également la gestion des versions avec Git.
 ### src 
 [https://readthedocs.org/](https://readthedocs.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU1OTI4ODcsMTM5ODEzNjM2OV19
+eyJoaXN0b3J5IjpbMTAyMjI4MjcwMSwtMTc5NTU5Mjg4NywxMz
+k4MTM2MzY5XX0=
 -->

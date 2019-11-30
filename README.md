@@ -3,7 +3,9 @@
 ## Utiliser Read The Docs pour gérer de la documentation
 
 ### À propos
-[readthedocs.org](readthedocs.org) est un service cloud gratuit qui a pour but d'héberger de la documentation et de ne pas s'occuper de la génération des documentations. C’est **Read the Docs** qui va s’en charger en proposant plusieurs formats (html, pdf, epub, …) de publication.
+[readthedocs.org](readthedocs.org) est un service cloud gratuit qui a pour but d'héberger de la documentation et de ne pas s'occuper de la génération des documentations. 
+
+**Read the Docs** qui va se charger à notre place de la publication en proposant plusieurs formats d'édition : html, pdf, epub, etc.
  
 **Read the Docs** va donc être utile pour créer et gérer le manuel d'un projet, la documentation d'une application ou pour tenir le carnet de bord.
 
@@ -17,6 +19,6 @@ Il est possible d’importer notre documentation sur la plateforme **Read the Do
 ## Installer Read the Docs sur Ubuntu 18.04 LTS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMzMTczMzMsLTE4MDMwMDk5NzksLT
+eyJoaXN0b3J5IjpbLTE5MTgzNzM5MDIsLTE4MDMwMDk5NzksLT
 E4ODU0MDk0MDgsLTE3OTU1OTI4ODcsMTM5ODEzNjM2OV19
 -->

@@ -1,6 +1,6 @@
-# Hello Read The Docs !
+# Configurer Read The Docs
 
-## Inscription sur 
+## Inscription sur Read the Docs
 - [S'inscrire](https://readthedocs.org/accounts/signup/) avec son compte Github
 - Confirmer son email sur Gmail
 
@@ -9,5 +9,5 @@
 ### src 
 [https://readthedocs.org/](https://readthedocs.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTA0NDQ5MiwxMzk4MTM2MzY5XX0=
+eyJoaXN0b3J5IjpbLTIwOTI0Mzg4ODcsMTM5ODEzNjM2OV19
 -->

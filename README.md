@@ -1,7 +1,7 @@
 # Read The Docs
 
 ## À propos
-readthedocs.org est un site qui héberge de la documentation, la rendant accessible et facile à trouver.
+readthedocs.org est un service cloud gratuit qui héberge votre documentation en ligne. c'est un service utilie pour créér le guide manuel d'un 
 ## Inscription sur Read the Docs
 - [S'inscrire](https://readthedocs.org/accounts/signup/) avec son compte Github
 - Confirmer son email sur Gmail
@@ -11,5 +11,5 @@ readthedocs.org est un site qui héberge de la documentation, la rendant accessi
 ### src 
 [https://readthedocs.org/](https://readthedocs.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Nzk5OTY5NCwxMzk4MTM2MzY5XX0=
+eyJoaXN0b3J5IjpbLTIwMzA3ODM2OTIsMTM5ODEzNjM2OV19
 -->

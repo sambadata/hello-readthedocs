@@ -1,9 +1,9 @@
-# Read The Docs
+# Utiliser Read The Docs
 
 ## À propos
 [readthedocs.org](readthedocs.org) est un service cloud gratuit qui a pour but d'héberger de la documentation.
  
-**Read the Docs** va donc être utile pour créer et gérer le manuel d'un projet, la documentation d'une application ou pour tenir le carnet de bord, etc.
+**Read the Docs** va donc être utile pour créer et gérer le manuel d'un projet, la documentation d'une application ou pour tenir le carnet de bord.
 
 Il est possible d’importer notre documentation sur la plateforme **Read the Docs** en se servant de **Git**. En effet, on va pouvoir gérer la mise à jour automatique de la documentation à chaque commit. 
 
@@ -17,6 +17,6 @@ Il est possible d’importer notre documentation sur la plateforme **Read the Do
 ### src 
 [https://readthedocs.org/](https://readthedocs.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAyNzY1MTksLTE3OTU1OTI4ODcsMT
-M5ODEzNjM2OV19
+eyJoaXN0b3J5IjpbOTUxOTUyODQsLTE3OTU1OTI4ODcsMTM5OD
+EzNjM2OV19
 -->

@@ -7,7 +7,7 @@
 
 Il est possible d’importer notre documentation sur la plateforme **Read the Docs** en se servant de **Git**. En effet, on va pouvoir gérer la mise à jour automatique de la documentation à chaque commit. 
 
-**Read the Docs** supporte également la gestion des versions avec Git.
+**Read the Docs** supporte également la gestion des versions avec **Git**.
 ## Inscription sur Read the Docs
 - [S'inscrire](https://readthedocs.org/accounts/signup/) avec son compte Github
 - Confirmer son email sur Gmail
@@ -17,6 +17,6 @@ Il est possible d’importer notre documentation sur la plateforme **Read the Do
 ### src 
 [https://readthedocs.org/](https://readthedocs.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MTA2MTM3LC0xNzk1NTkyODg3LDEzOT
-gxMzYzNjldfQ==
+eyJoaXN0b3J5IjpbLTE5NzAyNzY1MTksLTE3OTU1OTI4ODcsMT
+M5ODEzNjM2OV19
 -->

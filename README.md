@@ -14,9 +14,9 @@ Il est possible d’importer notre documentation sur la plateforme **Read the Do
 - [S'inscrire](https://readthedocs.org/accounts/signup/) avec son compte Github
 - Confirmer son email sur Gmail
 
-### Installation sur Ubuntu 18.04 LTS
+## Installer Read the Docs sur Ubuntu 18.04 LTS
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU0MDk0MDgsLTE3OTU1OTI4ODcsMT
-M5ODEzNjM2OV19
+eyJoaXN0b3J5IjpbLTE4MDMwMDk5NzksLTE4ODU0MDk0MDgsLT
+E3OTU1OTI4ODcsMTM5ODEzNjM2OV19
 -->

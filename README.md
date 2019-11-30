@@ -1,4 +1,4 @@
-# Utiliser Read The Docs
+# Utiliser Read The Docs pour Gérer notre documentation technique
 
 ## À propos
 [readthedocs.org](readthedocs.org) est un service cloud gratuit qui a pour but d'héberger de la documentation.
@@ -17,6 +17,6 @@ Il est possible d’importer notre documentation sur la plateforme **Read the Do
 ### src 
 [https://readthedocs.org/](https://readthedocs.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxOTUyODQsLTE3OTU1OTI4ODcsMTM5OD
-EzNjM2OV19
+eyJoaXN0b3J5IjpbMTAyNzk1Mjk4NywtMTc5NTU5Mjg4NywxMz
+k4MTM2MzY5XX0=
 -->
